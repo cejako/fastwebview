@@ -1,0 +1,19 @@
+{
+  "name": "fastwebview",
+  "version": "1.0.0",
+  "description": "An efficient solution for accelerating web speed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cejako/fastwebview"
+  },
+  "keywords": [
+    "Web",
+    "Fast"
+  ],
+  "author": "seanxie@tencent.com",
+  "license": "ISC"
+}
